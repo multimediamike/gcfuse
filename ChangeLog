@@ -1,0 +1,6 @@
+0.9.1:
+* copy whole title into .metadata (only 32 characters made it before)
+* make main .DOL executable available to browse in the root directory
+
+0.9:
+* initial release
