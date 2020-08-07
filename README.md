@@ -49,9 +49,8 @@ contains a few bits of metadata embedeed in the filesystem, including:
 - Game code
 - Publisher code
 - Title
+
 The filesystem derives the name of the root executable from that title metadata.
-
-
 
 To unmount previously mounted file, use:
     fusermount -u <mount_point>
