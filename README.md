@@ -45,7 +45,7 @@ it will also expose the root executable .dol file, which is an implicit part of 
 This file will be named after the name of the disc.
 
 Speaking of the name of the disc, the filesystem will also have a '.metadata' file at the root which
-contains a few bits of metadata embedeed in the filesystem, including:
+contains a few bits of metadata embedded in the filesystem, including:
 - Game code
 - Publisher code
 - Title
